@@ -24,7 +24,8 @@ This patch changes the voice that says "bonus", whenever you pick up a bonus ite
 (Patched) &nbsp; MD5:  &nbsp; &nbsp;   bfbed79edd2b08d455b80ebfece9f77e  
 (Patched) &nbsp;  SHA-1: &nbsp; 345754c3ba9925f1d21bb9399f5b1ee1160134de  
 
-## &nbsp;
+&nbsp;
+##
 
 Patch by KMH  
 2023-06-04 - Released
